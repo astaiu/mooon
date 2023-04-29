@@ -1,0 +1,38 @@
+{
+    "name": "سورس استا للتجميع",
+    "description": " asta ",
+    "stack": "container",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/bhthh/ah",
+    "env": {
+        "APP_ID": {
+            "description": "الاب ايدي",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "الايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت",
+            "value": "",
+            "required": true
+        }
+    }
+}
